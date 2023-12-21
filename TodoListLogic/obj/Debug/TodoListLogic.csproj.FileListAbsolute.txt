@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\УЧЕБА\CS\TodoList\TodoListLogic\bin\Debug\TodoListLogic.dll
+C:\Users\User\Desktop\УЧЕБА\CS\TodoList\TodoListLogic\bin\Debug\TodoListLogic.pdb
+C:\Users\User\Desktop\УЧЕБА\CS\TodoList\TodoListLogic\obj\Debug\TodoListLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\УЧЕБА\CS\TodoList\TodoListLogic\obj\Debug\TodoListLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\УЧЕБА\CS\TodoList\TodoListLogic\obj\Debug\TodoListLogic.dll
+C:\Users\User\Desktop\УЧЕБА\CS\TodoList\TodoListLogic\obj\Debug\TodoListLogic.pdb
